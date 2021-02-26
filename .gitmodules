@@ -1,0 +1,4 @@
+[submodule "daikin_madoka"]
+    path = custom_components/daikin_madoka
+    url = https://github.com/mduran80/daikin_madoka
+    branch = master
